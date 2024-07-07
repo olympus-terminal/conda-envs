@@ -1,3 +1,7 @@
+
+###Currently Loaded Modulefiles:
+ ##  1) gcc/13.2.0 
+
 name: /scratch/drn2/software/conda-qlora
 channels:
   - pytorch
